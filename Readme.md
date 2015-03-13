@@ -1,6 +1,6 @@
 # Apple Watch Icon Exporter
 
-This is a Photoshop script for creating Apple Watch icons from a single large file. It's based on @sponno's [iPhone-Photoshop-JSX-Icon-Exporter](https://github.com/sponno/iPhone-Photoshop-JSX-Icon-Exporter) project.
+This is a Photoshop script for creating Apple Watch icons from a single large file. It's based on [@sponno](https://github.com/sponno)'s [iPhone-Photoshop-JSX-Icon-Exporter](https://github.com/sponno/iPhone-Photoshop-JSX-Icon-Exporter) project.
 
 ## Usage
 
